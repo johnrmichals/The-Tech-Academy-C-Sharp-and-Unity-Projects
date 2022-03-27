@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\John Michals\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LicenseQualifier.cs" Link="LicenseQualifier.cs" />
+    <Compile Include="C:\Users\John Michals\source\repos\LicenseQualifier.cs" Link="LicenseQualifier.cs" />
+  </ItemGroup>
+
+</Project>
