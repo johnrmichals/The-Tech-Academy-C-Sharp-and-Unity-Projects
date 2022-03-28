@@ -19,7 +19,7 @@ namespace ConsoleApp3
                 if (dui == "yes") { impared = true; }
             Console.WriteLine("How many driving tickets have you gotten?");
             tickets = Convert.ToInt16(Console.ReadLine());
-            if (age >= 15 && impared == false && tickets <= 3 )
+            if (age > 15 && impared == false && tickets <= 3 )
                 { Console.WriteLine("You qualify for a license!"); }
             else
                 { Console.WriteLine("Sorry, you do not qualify."); }
