@@ -1,0 +1,14 @@
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\bin\Debug\netcoreapp3.1\PackageDimensions.exe
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\bin\Debug\netcoreapp3.1\PackageDimensions.deps.json
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\bin\Debug\netcoreapp3.1\PackageDimensions.runtimeconfig.json
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\bin\Debug\netcoreapp3.1\PackageDimensions.runtimeconfig.dev.json
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\bin\Debug\netcoreapp3.1\PackageDimensions.dll
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\bin\Debug\netcoreapp3.1\PackageDimensions.pdb
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\obj\Debug\netcoreapp3.1\PackageDimensions.csproj.AssemblyReference.cache
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\obj\Debug\netcoreapp3.1\PackageDimensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\obj\Debug\netcoreapp3.1\PackageDimensions.AssemblyInfoInputs.cache
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\obj\Debug\netcoreapp3.1\PackageDimensions.AssemblyInfo.cs
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\obj\Debug\netcoreapp3.1\PackageDimensions.csproj.CoreCompileInputs.cache
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\obj\Debug\netcoreapp3.1\PackageDimensions.dll
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\obj\Debug\netcoreapp3.1\PackageDimensions.pdb
+C:\Users\John Michals\source\repos\PackageDimensions\PackageDimensions\obj\Debug\netcoreapp3.1\PackageDimensions.genruntimeconfig.cache
