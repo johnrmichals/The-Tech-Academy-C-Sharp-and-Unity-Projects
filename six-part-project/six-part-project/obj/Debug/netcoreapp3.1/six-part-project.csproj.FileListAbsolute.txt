@@ -1,0 +1,14 @@
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\bin\Debug\netcoreapp3.1\six-part-project.exe
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\bin\Debug\netcoreapp3.1\six-part-project.deps.json
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\bin\Debug\netcoreapp3.1\six-part-project.runtimeconfig.json
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\bin\Debug\netcoreapp3.1\six-part-project.runtimeconfig.dev.json
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\bin\Debug\netcoreapp3.1\six-part-project.dll
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\bin\Debug\netcoreapp3.1\six-part-project.pdb
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\obj\Debug\netcoreapp3.1\six-part-project.csproj.AssemblyReference.cache
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\obj\Debug\netcoreapp3.1\six-part-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\obj\Debug\netcoreapp3.1\six-part-project.AssemblyInfoInputs.cache
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\obj\Debug\netcoreapp3.1\six-part-project.AssemblyInfo.cs
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\obj\Debug\netcoreapp3.1\six-part-project.csproj.CoreCompileInputs.cache
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\obj\Debug\netcoreapp3.1\six-part-project.dll
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\obj\Debug\netcoreapp3.1\six-part-project.pdb
+C:\Users\John Michals\source\repos\six-part-project\six-part-project\obj\Debug\netcoreapp3.1\six-part-project.genruntimeconfig.cache
