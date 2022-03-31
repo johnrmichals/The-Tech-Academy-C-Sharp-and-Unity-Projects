@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John Michals\\source\\repos\\Arrays\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Arrays\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John Michals\\source\\repos\\Arrays\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Arrays\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Michals\\source\\repos\\Arrays\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Arrays\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\Users\\John Michals\\source\\repos\\Arrays\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Arrays\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\John Michals\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Michals\\source\\repos\\Arrays\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Arrays\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -28,11 +28,11 @@ namespace Arrays
             }
             Console.WriteLine("That is " + (fav_numbers[answer2]));
 
-            List<int> least_numbers = new List<int>();
-            least_numbers.Add(19);
-            least_numbers.Add(7);
-            least_numbers.Add(45);
-            least_numbers.Add(112);
+            List<string> least_numbers = new List<string>();
+            least_numbers.Add("nineteen");
+            least_numbers.Add("seven");
+            least_numbers.Add("forty-five");
+            least_numbers.Add("one-hundred and twelve");
             int answer3 = 0;
 
             Console.WriteLine("Choose one of my least favorite numbers! (numbers 0-4)");
