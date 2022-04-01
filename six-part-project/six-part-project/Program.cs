@@ -100,40 +100,22 @@ namespace six_part_project
             Console.ReadLine();
 
             //PART SIX
-            var animals = new List<string>();
-            string adder = "";
-            int counter = 0;
-            int q = 0;
+            var animals = new List<string>() {"bear", "giraffe", "deer", "lizard", "giraffe", "pelican" };
+            List<string> empty = new List<string>();
 
-            while (adder != "END")
+            foreach (string animal in animals)
             {
-                Console.WriteLine("Add an animal to the list and I'll tell you if it's on there. Type END to finish.");
-                adder = Console.ReadLine();
-                animals.Add(adder);
-                foreach (string z in animals) //iterates through the list
+                if (empty.Contains(animal))
                 {
-                    while (q < animals.Count)
-                    {
-                        if (animals[q] == adder) //checks if the string equals any strings in the list. It will count itself. 
-                        {
-                            counter++;
-                        }
-                        q++;
-                    }                                       
-                }
-                if (counter >= 2) //checks if the name appears more than once in the list
-                {
-                    Console.WriteLine(adder + " is already in the list.");
-                    q = 0;
-                    counter = 0;
+                    Console.WriteLine("Animal has already appeared in list.");
                 }
                 else
                 {
-                    Console.WriteLine(adder + " has been added to the list!");
-                    q = 0;
-                    counter = 0;
-                }
+                    empty.Add(animal);
+                    Console.WriteLine("Animal has not appeared in the list.");
+                }               
             }
+            Console.ReadLine();
         }
     }
 }
