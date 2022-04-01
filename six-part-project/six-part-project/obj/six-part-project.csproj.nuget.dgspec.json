@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John Michals\\source\\repos\\six-part-project\\six-part-project\\six-part-project.csproj": {}
+    "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\six-part-project\\six-part-project\\six-part-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John Michals\\source\\repos\\six-part-project\\six-part-project\\six-part-project.csproj": {
+    "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\six-part-project\\six-part-project\\six-part-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Michals\\source\\repos\\six-part-project\\six-part-project\\six-part-project.csproj",
+        "projectUniqueName": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\six-part-project\\six-part-project\\six-part-project.csproj",
         "projectName": "six-part-project",
-        "projectPath": "C:\\Users\\John Michals\\source\\repos\\six-part-project\\six-part-project\\six-part-project.csproj",
+        "projectPath": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\six-part-project\\six-part-project\\six-part-project.csproj",
         "packagesPath": "C:\\Users\\John Michals\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Michals\\source\\repos\\six-part-project\\six-part-project\\obj\\",
+        "outputPath": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\six-part-project\\six-part-project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -94,27 +94,45 @@ namespace six_part_project
                 {
                     Console.WriteLine("That's not a cheese on my list! Try again.");
                     answer2 = Console.ReadLine();
-                }                
+                }
+                y = 0;
             }
             Console.ReadLine();
+
             //PART SIX
-            var animals = new List<string>() { "bear", "tiger", "snake", "owl", "snake", "panther", "gorilla" };
+            var animals = new List<string>();
+            string adder = "";
             int counter = 0;
             int q = 0;
 
-            foreach (string z in animals)
-            {               
-                while (q < animals.Count)
+            while (adder != "END")
+            {
+                Console.WriteLine("Add an animal to the list and I'll tell you if it's on there. Type END to finish.");
+                adder = Console.ReadLine();
+                animals.Add(adder);
+                foreach (string z in animals) //iterates through the list
                 {
-                    if (z == animals[q])
+                    while (q < animals.Count)
                     {
-                        counter++;
-                    }
-                    q++;
-                }               
-            Console.WriteLine(z + " appears " + counter + " times.");
-                counter = 0;
-                q = 0;
+                        if (animals[q] == adder) //checks if the string equals any strings in the list. It will count itself. 
+                        {
+                            counter++;
+                        }
+                        q++;
+                    }                                       
+                }
+                if (counter >= 2) //checks if the name appears more than once in the list
+                {
+                    Console.WriteLine(adder + " is already in the list.");
+                    q = 0;
+                    counter = 0;
+                }
+                else
+                {
+                    Console.WriteLine(adder + " has been added to the list!");
+                    q = 0;
+                    counter = 0;
+                }
             }
         }
     }
