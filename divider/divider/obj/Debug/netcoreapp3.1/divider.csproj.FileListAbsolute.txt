@@ -1,0 +1,14 @@
+C:\Users\John Michals\source\repos\divider\divider\bin\Debug\netcoreapp3.1\divider.exe
+C:\Users\John Michals\source\repos\divider\divider\bin\Debug\netcoreapp3.1\divider.deps.json
+C:\Users\John Michals\source\repos\divider\divider\bin\Debug\netcoreapp3.1\divider.runtimeconfig.json
+C:\Users\John Michals\source\repos\divider\divider\bin\Debug\netcoreapp3.1\divider.runtimeconfig.dev.json
+C:\Users\John Michals\source\repos\divider\divider\bin\Debug\netcoreapp3.1\divider.dll
+C:\Users\John Michals\source\repos\divider\divider\bin\Debug\netcoreapp3.1\divider.pdb
+C:\Users\John Michals\source\repos\divider\divider\obj\Debug\netcoreapp3.1\divider.csproj.AssemblyReference.cache
+C:\Users\John Michals\source\repos\divider\divider\obj\Debug\netcoreapp3.1\divider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Michals\source\repos\divider\divider\obj\Debug\netcoreapp3.1\divider.AssemblyInfoInputs.cache
+C:\Users\John Michals\source\repos\divider\divider\obj\Debug\netcoreapp3.1\divider.AssemblyInfo.cs
+C:\Users\John Michals\source\repos\divider\divider\obj\Debug\netcoreapp3.1\divider.csproj.CoreCompileInputs.cache
+C:\Users\John Michals\source\repos\divider\divider\obj\Debug\netcoreapp3.1\divider.dll
+C:\Users\John Michals\source\repos\divider\divider\obj\Debug\netcoreapp3.1\divider.pdb
+C:\Users\John Michals\source\repos\divider\divider\obj\Debug\netcoreapp3.1\divider.genruntimeconfig.cache
