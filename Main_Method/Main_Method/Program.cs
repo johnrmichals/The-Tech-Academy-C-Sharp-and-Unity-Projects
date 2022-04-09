@@ -12,14 +12,16 @@ namespace Main_Method
         {
             MathProblem MathObj = new MathProblem();
 
-            int Var1 = MathObj.AddFive(6);
-            Console.WriteLine(Var1);
+            int Var1 = 5; 
+            Console.WriteLine("Passing the int value of 5 into the method. Return this: " + MathObj.AddFive(Var1));
 
-            int Var2 = MathObj.AddFive(Convert.ToInt32(6.4m));
-            Console.WriteLine(Var2);
+            decimal Var2 = 6.4m;                
+            Console.WriteLine("Passing the decimal value of 6.4 into the method. Return this: " + MathObj.AddFive(Var2)); 
 
-            int Var3 = MathObj.AddFive(Convert.ToInt32('8'));
-            Console.WriteLine(Var3);
+            string Var3 = "8";               
+            Console.WriteLine("Passing the string value of 8 into the method. Return this: " + MathObj.AddFive(Var3));
+
+            Console.ReadLine();
         }
     }
 }

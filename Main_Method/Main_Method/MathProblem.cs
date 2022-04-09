@@ -9,7 +9,7 @@ namespace Main_Method
     internal class MathProblem
     {
         public int AddFive(int x) { return x + 5; }
-        public decimal AddFive(decimal x) { return 2 * x; }
-        public string AddFive(string x) { return x + 5; }
+        public int AddFive(decimal x) { return Convert.ToInt32(5 + x); }
+        public int AddFive(string x) { return Convert.ToInt32(x) + 5; }
     }
 }
