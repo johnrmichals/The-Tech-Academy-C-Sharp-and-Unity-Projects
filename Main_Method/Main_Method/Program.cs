@@ -11,25 +11,15 @@ namespace Main_Method
         static void Main(string[] args)
         {
             MathProblem MathObj = new MathProblem();
-            int a = 0;
-            double b = 0.0;
-            string c = "";
 
-            Console.WriteLine("If you give me a whole number, I will add 5.");
-            a = Convert.ToInt32(Console.ReadLine());
-            int Var1 = MathObj.AddFive(a);
+            int Var1 = MathObj.AddFive(6);
             Console.WriteLine(Var1);
 
-            Console.WriteLine("If you give me a decimal, I'll add 0.5 to it.");
-            b = Convert.ToDouble(Console.ReadLine());
-            double Var2 = MathObj.AddFive(b);
+            int Var2 = MathObj.AddFive(Convert.ToInt32(6.4m));
             Console.WriteLine(Var2);
 
-            Console.WriteLine("If you type a whole number between one and ten, I'll return that number.");
-            c = Console.ReadLine();
-            string Var3 = MathProblem.AddFive(c);
+            int Var3 = MathObj.AddFive(Convert.ToInt32('8'));
             Console.WriteLine(Var3);
-
         }
     }
 }
