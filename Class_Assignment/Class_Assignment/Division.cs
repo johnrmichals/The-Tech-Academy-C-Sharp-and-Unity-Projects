@@ -10,13 +10,10 @@ namespace Class_Assignment
         {
             Console.WriteLine(x / 2);
         }
-        public int TimesThree(int x) //method with output parameters
+        public void DivideByTwo(out int x, int y) 
         {
-            return x * 3;
-        }
-        public float TimesThree(float x) //overloading a method
-        {
-            return x / 3;
+            y /= 2;
+            x = y; 
         }
     }
 }
