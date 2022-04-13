@@ -6,13 +6,8 @@ namespace Methods_and_Objects
     {
         static void Main(string[] args)
         {
-            Employee person = new Employee
-            {
-                FirstName = "Sample",
-                LastName = "Student"
-            };
+            IQuittable person = new Employee();           
 
-            person.SayName();
             person.Quit();
         }
     }
