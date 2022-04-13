@@ -4,14 +4,11 @@ using System.Text;
 
 namespace Methods_and_Objects
 {
-    class Person
+    abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        abstract public void SayName();      
     }
 }
