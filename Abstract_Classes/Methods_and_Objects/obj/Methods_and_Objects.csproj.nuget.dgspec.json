@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John Michals\\source\\repos\\Methods_and_Objects\\Methods_and_Objects\\Methods_and_Objects.csproj": {}
+    "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Abstract_Classes\\Methods_and_Objects\\Methods_and_Objects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John Michals\\source\\repos\\Methods_and_Objects\\Methods_and_Objects\\Methods_and_Objects.csproj": {
+    "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Abstract_Classes\\Methods_and_Objects\\Methods_and_Objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Michals\\source\\repos\\Methods_and_Objects\\Methods_and_Objects\\Methods_and_Objects.csproj",
+        "projectUniqueName": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Abstract_Classes\\Methods_and_Objects\\Methods_and_Objects.csproj",
         "projectName": "Methods_and_Objects",
-        "projectPath": "C:\\Users\\John Michals\\source\\repos\\Methods_and_Objects\\Methods_and_Objects\\Methods_and_Objects.csproj",
+        "projectPath": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Abstract_Classes\\Methods_and_Objects\\Methods_and_Objects.csproj",
         "packagesPath": "C:\\Users\\John Michals\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Michals\\source\\repos\\Methods_and_Objects\\Methods_and_Objects\\obj\\",
+        "outputPath": "C:\\Users\\John Michals\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Abstract_Classes\\Methods_and_Objects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
