@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Main_Method\\Main_Method\\Main_Method.csproj": {}
+    "C:\\Users\\jmich\\source\\repos\\Overloading_Operators\\Overloading_Operators\\Overloading_Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Main_Method\\Main_Method\\Main_Method.csproj": {
+    "C:\\Users\\jmich\\source\\repos\\Overloading_Operators\\Overloading_Operators\\Overloading_Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Main_Method\\Main_Method\\Main_Method.csproj",
-        "projectName": "Main_Method",
-        "projectPath": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Main_Method\\Main_Method\\Main_Method.csproj",
+        "projectUniqueName": "C:\\Users\\jmich\\source\\repos\\Overloading_Operators\\Overloading_Operators\\Overloading_Operators.csproj",
+        "projectName": "Overloading_Operators",
+        "projectPath": "C:\\Users\\jmich\\source\\repos\\Overloading_Operators\\Overloading_Operators\\Overloading_Operators.csproj",
         "packagesPath": "C:\\Users\\jmich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Main_Method\\Main_Method\\obj\\",
+        "outputPath": "C:\\Users\\jmich\\source\\repos\\Overloading_Operators\\Overloading_Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jmich\\AppData\\Roaming\\NuGet\\NuGet.Config",
