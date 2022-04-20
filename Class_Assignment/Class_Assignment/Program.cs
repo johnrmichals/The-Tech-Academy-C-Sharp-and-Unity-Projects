@@ -2,15 +2,28 @@
 
 namespace Class_Assignment
 {
-    static class Program //program class declared static 
+    class Program 
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a number and I'll divide it in two!"); 
             int y = Convert.ToInt32(Console.ReadLine());
+           
+            Division division = new Division();
+            division.DivideByTwo(y);
 
-            Division division = new Division(); //instantiates the method
-            division.DivideByTwo(y); //calls the method with user input
+            int x = 10;
+            division.DivideByTwo(out x, y); 
+            Console.WriteLine(x);
+
+            FirstClass.FirstMethod();
+        }
+        static class FirstClass
+        {
+            public static void FirstMethod()
+            {
+                Console.WriteLine("Hello, from my static class.");
+            }
         }
     }
 }
