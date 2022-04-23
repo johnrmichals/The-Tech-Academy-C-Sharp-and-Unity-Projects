@@ -1,0 +1,5 @@
+C:\Users\jmich\source\repos\Overloading_Operators\Overloading_Operators\obj\Debug\net6.0\Overloading_Operators.csproj.AssemblyReference.cache
+C:\Users\jmich\source\repos\Overloading_Operators\Overloading_Operators\obj\Debug\net6.0\Overloading_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmich\source\repos\Overloading_Operators\Overloading_Operators\obj\Debug\net6.0\Overloading_Operators.AssemblyInfoInputs.cache
+C:\Users\jmich\source\repos\Overloading_Operators\Overloading_Operators\obj\Debug\net6.0\Overloading_Operators.AssemblyInfo.cs
+C:\Users\jmich\source\repos\Overloading_Operators\Overloading_Operators\obj\Debug\net6.0\Overloading_Operators.csproj.CoreCompileInputs.cache

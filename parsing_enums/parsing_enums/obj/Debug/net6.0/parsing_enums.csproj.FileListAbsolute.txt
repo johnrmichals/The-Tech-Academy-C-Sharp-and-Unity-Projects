@@ -1,0 +1,15 @@
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\parsing_enums.csproj.AssemblyReference.cache
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\parsing_enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\parsing_enums.AssemblyInfoInputs.cache
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\parsing_enums.AssemblyInfo.cs
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\parsing_enums.csproj.CoreCompileInputs.cache
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\bin\Debug\net6.0\parsing_enums.exe
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\bin\Debug\net6.0\parsing_enums.deps.json
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\bin\Debug\net6.0\parsing_enums.runtimeconfig.json
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\bin\Debug\net6.0\parsing_enums.dll
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\bin\Debug\net6.0\parsing_enums.pdb
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\parsing_enums.dll
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\refint\parsing_enums.dll
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\parsing_enums.pdb
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\parsing_enums.genruntimeconfig.cache
+C:\Users\jmich\source\repos\parsing_enums\parsing_enums\obj\Debug\net6.0\ref\parsing_enums.dll

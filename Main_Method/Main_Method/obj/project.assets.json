@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmich\\source\\repos\\Main_Method\\Main_Method\\Main_Method.csproj",
+      "projectUniqueName": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Main_Method\\Main_Method\\Main_Method.csproj",
       "projectName": "Main_Method",
-      "projectPath": "C:\\Users\\jmich\\source\\repos\\Main_Method\\Main_Method\\Main_Method.csproj",
+      "projectPath": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Main_Method\\Main_Method\\Main_Method.csproj",
       "packagesPath": "C:\\Users\\jmich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmich\\source\\repos\\Main_Method\\Main_Method\\obj\\",
+      "outputPath": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Main_Method\\Main_Method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmich\\AppData\\Roaming\\NuGet\\NuGet.Config",

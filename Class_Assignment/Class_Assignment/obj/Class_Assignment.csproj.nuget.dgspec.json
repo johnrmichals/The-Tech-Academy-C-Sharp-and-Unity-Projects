@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John Michals\\source\\repos\\Class_Assignment\\Class_Assignment\\Class_Assignment.csproj": {}
+    "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Class_Assignment\\Class_Assignment\\Class_Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John Michals\\source\\repos\\Class_Assignment\\Class_Assignment\\Class_Assignment.csproj": {
+    "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Class_Assignment\\Class_Assignment\\Class_Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Michals\\source\\repos\\Class_Assignment\\Class_Assignment\\Class_Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Class_Assignment\\Class_Assignment\\Class_Assignment.csproj",
         "projectName": "Class_Assignment",
-        "projectPath": "C:\\Users\\John Michals\\source\\repos\\Class_Assignment\\Class_Assignment\\Class_Assignment.csproj",
-        "packagesPath": "C:\\Users\\John Michals\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Michals\\source\\repos\\Class_Assignment\\Class_Assignment\\obj\\",
+        "projectPath": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Class_Assignment\\Class_Assignment\\Class_Assignment.csproj",
+        "packagesPath": "C:\\Users\\jmich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmich\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Class_Assignment\\Class_Assignment\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\John Michals\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmich\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.23, 3.1.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
