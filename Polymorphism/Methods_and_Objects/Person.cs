@@ -9,6 +9,12 @@ namespace Methods_and_Objects
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        abstract public void SayName();      
+        abstract public void SayName();
+
+        public static Employee operator== ();
+        {
+
+        }
+
     }
 }

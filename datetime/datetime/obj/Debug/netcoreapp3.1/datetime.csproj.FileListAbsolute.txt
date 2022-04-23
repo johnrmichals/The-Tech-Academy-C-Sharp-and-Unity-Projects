@@ -1,0 +1,14 @@
+C:\Users\John Michals\source\repos\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.exe
+C:\Users\John Michals\source\repos\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.deps.json
+C:\Users\John Michals\source\repos\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.runtimeconfig.json
+C:\Users\John Michals\source\repos\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.runtimeconfig.dev.json
+C:\Users\John Michals\source\repos\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.dll
+C:\Users\John Michals\source\repos\datetime\datetime\bin\Debug\netcoreapp3.1\datetime.pdb
+C:\Users\John Michals\source\repos\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.csproj.AssemblyReference.cache
+C:\Users\John Michals\source\repos\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Michals\source\repos\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.AssemblyInfoInputs.cache
+C:\Users\John Michals\source\repos\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.AssemblyInfo.cs
+C:\Users\John Michals\source\repos\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.csproj.CoreCompileInputs.cache
+C:\Users\John Michals\source\repos\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.dll
+C:\Users\John Michals\source\repos\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.pdb
+C:\Users\John Michals\source\repos\datetime\datetime\obj\Debug\netcoreapp3.1\datetime.genruntimeconfig.cache
